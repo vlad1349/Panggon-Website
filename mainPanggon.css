@@ -551,17 +551,3 @@ footer{
 .footbutton:hover{
     font-weight: bolder;
 }
-.rating{
-    display: flex;
-}
-.ratingItem{
-    width: 40px;
-    height: 40px;
-    border: 2px solid #ffffff;
-    background-color: #00e2aa;
-    cursor: pointer;
-}
-.ratingItem.active{
-    background-color: yellow;
-
-}
